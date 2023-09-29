@@ -524,4 +524,12 @@ SVM with an RBF kernel operates in a higher-dimensional feature space, where fea
 
 ## Layer 12
 
-Same approach as of Layer 7 is used here.
+Same approach as of Layer 7 is used here too but since features are sparse PCA is used to fold the features into specified number of principle component to cover 99% percentage of variance.
+
+[Open Colab Notebook for Label 1](https://colab.research.google.com/drive/1sPkDRFb3KHRXMtnOQ4k2jRkEZYHtVb-2?usp=sharing)
+
+[Open Colab Notebook for Label 2](https://colab.research.google.com/drive/1cefLE0dIjug2SH6gyrksl_Lj_tHzBFpm?usp=sharing)
+
+[Open Colab Notebook for Label 3](https://colab.research.google.com/drive/1P-0pcOxeH0qOr55FiC679BAUg0kCP7mx?usp=sharing)
+
+[Open Colab Notebook for Label 4](https://colab.research.google.com/drive/1L_CIqVEfluvB3jkdEtMx_eQBc-4kHsrc?usp=sharing)
